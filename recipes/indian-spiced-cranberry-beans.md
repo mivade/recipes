@@ -1,4 +1,5 @@
 ---
+type: main
 tags: beans, indian, vegan, vegetarian
 ---
 
