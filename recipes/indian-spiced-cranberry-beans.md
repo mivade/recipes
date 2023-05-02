@@ -1,6 +1,10 @@
 ---
 type: main
-tags: beans, indian, vegan, vegetarian
+tags:
+  - beans
+  - indian
+  - vegan
+  - vegetarian
 ---
 
 # Indian-spiced cranberry beans
