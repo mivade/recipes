@@ -1,0 +1,4 @@
+# Main courses
+
+{{< include recipes/indian-spiced-cranberry-beans.md >}}
+{{< include recipes/chili-sin-carne.md >}}

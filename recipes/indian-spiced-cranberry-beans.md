@@ -1,11 +1,6 @@
----
-type: main
-tags: beans, indian, vegan, vegetarian
----
+## Indian-spiced cranberry beans
 
-# Indian-spiced cranberry beans
-
-## Ingredients
+### Ingredients {.unnumbered}
 
 - 1 pound cranberry beans, cooked with their broth
 - 1 medium yellow onion, sliced or diced
@@ -22,7 +17,7 @@ tags: beans, indian, vegan, vegetarian
 - Salt and black pepper to taste
 - Fresh cilantro, chopped
 
-## Instructions
+### Instructions {.unnumbered}
 
 - Gently warm the beans in their broth in a pot.
 - Heat oil in a heavy skillet over medium heat. Sautee onion, garlic, ginger,
@@ -37,7 +32,7 @@ tags: beans, indian, vegan, vegetarian
   thicken.
 - Serve garnished with cilantro as is or over rice or with warm flatbread.
 
-## Sources
+### Sources {.unnumbered}
 
 Adapted from Steve Sando and Vanessa Barrington, *Heirloom Beans*, Chronicle
 Books (2008).

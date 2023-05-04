@@ -1,5 +1,3 @@
 # Recipes
 
-See all recipes in the `recipes` directory.
-
-One day this may be made more organized and/or searchable.
+A small listing of recipes formatted as a [Quarto](https://quarto.org) book.
